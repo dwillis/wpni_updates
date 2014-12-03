@@ -1,0 +1,108 @@
+Here’s this week’s update from the washingtonpost.com newsroom.  If you
+have links to pass along, or  questions you’d like to see addressed in this
+email, please drop me a line at  jim.brady@washingtonpost.com.
+
+
+
+
+
+RECENT LAUNCHES  (updates in  red)
+
+   10/28: High school sports statistical  databases (
+   http://www.washingtonpost.com/wp-srv/sports/hssports/longterm/sidebars/Stat_Central.html
+   ;
+   http://www.washingtonpost.com/wp-srv/sports/highschools/football/2005/overall_stats.html
+   ;  and
+   http://www.washingtonpost.com/wp-srv/sports/highschools/football/2005/top20.html
+   )
+   10/27:New Jobs release (http://www.washingtonpost.com/wl/jobs/home).
+   10/26: Local search / City Guide.  (
+   http://www.washingtonpost.com/wp-dyn/content/artsandliving/cityguide/?nav=globetop
+   ).
+   10/21: Video podcasting (
+   http://www.washingtonpost.com/wp-srv/mmedia/podcastfront.htm)
+   10/14:Tom Sietsema’s  Dining Guide (
+   http://www.washingtonpost.com/wp-srv/artsandliving/entertainmentguide/features/2005/diningguide/index.html
+   )
+   10/10:IPod version of Entertainment  Guide. (
+   http://www.washingtonpost.com/wp-srv/artsandliving/entertainmentguide/togo/index.html
+   )
+   10/4: Vagablog, cross-country travelogue  (
+   http://blogs.washingtonpost.com/vagablog2/)
+   10/3: The Fix, our daily political blog.  (
+   http://blogs.washingtonpost.com/thefix/)
+   10/3: Wizards Journal, a NBA blog by The  Post’s Ivan Carter (
+   http://blogs.washingtonpost.com/wizardsjournal/)
+   10/3: Car review database (
+   http://www.washingtonpost.com/wp-dyn/content/linkset/2005/08/01/LI2005080101326.html
+   )
+
+
+
+
+
+TIPS OF THE  WEEK
+
+Washingtonpost.com Site Index:  As discussed in  previous e-mails, we’re
+working on improving our news search, but it’s not a  quick fix and it will
+likely be sometime in the first quarter of 2006 before we  can launch
+anything new. Until that time, remember that if you are searching for  a
+specific term in a story, use quote marks around the term to improve the
+quality of your search return.
+
+
+
+Additionally, if you’re looking for  a specific subsection on the site (or
+just want to see the full offering of what  we have), here is our site
+index: http://www.washingtonpost.com/wp-srv/contents/.
+
+
+
+Section Front Images:  We also do provide  section-front images from the
+newspaper each day, and they are available at
+http://www.washingtonpost.com/wp-srv/print/asectionfrontimage.html.
+
+
+
+
+
+WORTH A  PEEK
+
+   http://en.wikipedia.org/wiki/Main_Page:  For those who have not yet
+   seen, Wikipedia is an encyclopedia created by the  public, using a tool
+   called a “wiki.” A wiki is a content item that can be  edited by anyone
+   and allows for products to be created  collectively. For  example,
+   here’s Wikipedia’s entry on The Washington  Post.
+   http://www.paidcontent.org/: Probably  the best blog centered around
+   content on the Internet.
+
+
+
+POST.COM  PRESS ROOM
+
+·
+http://publications.mediapost.com/index.cfm?fuseaction=Articles.san&s=35530&Nid=16186&p=254396
+
+·          http://judgingthefuture.net/2005/10/blog_on_blog.php  (for a
+quick laugh)
+
+·          http://www.tamark.ca/students/?p=1756
+
+
+
+
+
+OTHER  NEWS
+
+Personnel  News
+
+   Ben Sumner, who worked on the  editorial tools team, departed to take a
+   position at away.com.
+
+Publishing  System
+
+   Orbit continues to see improved  stability, and bugs continue to be
+   fixed. The next release will be on 11/1. At  this point, while we will
+   continue to fix bugs and clean up templates, Tech is  expecting to start
+   a longer-term project to rebuild a key part of the  publishing system
+   and turn it into a Web interface.

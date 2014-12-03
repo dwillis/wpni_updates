@@ -1,0 +1,135 @@
+Here’s  this week’s update from the washingtonpost.com newsroom.  If you
+have links to pass along, or  questions you’d like to see addressed in this
+email, please drop me a line at jim.brady@washingtonpost.com.
+
+
+
+
+
+OTHER TRAFFIC  FACTS
+
+·          Here  were the two highest-traffic Post-written articles on
+washingtonpost.com in  October:
+
+o         Withdraw  This Nominee, by Charles Krauthammer (246,000 page
+views)
+
+o         Miers,  Under Fire From Right, Withdrawn as Court Nominee, by
+Michael Fletcher and Charles  Babington (206,000 page views)
+
+·        Washingtonpost.com solidified its  local standing in October. It
+remained the dominant news site locally, with  CNN.com the only other news
+site to make the top 30 URLs in Washington. But we  expanded our lead over
+CNN in four of our key metrics, and narrowed the gap on a  fifth:
+
+o         Unique  local audience: washingtonpost.com 857,838; CNN 694,768
+
+o         Local  page views: washingtonpost.com 59,877,404; CNN 29,696,042
+
+o         Pages per  local user: washingtonpost.com 70; CNN 43
+
+o         Visits  per local user: washingtonpost.com 13.15; CNN 13.22
+
+o         Time per  local user: washingtonpost.com 1 hour 11 minutes 46
+seconds; CNN 40 minutes 32  seconds.
+
+·          A few  more facts off the October Nielsen report.
+
+o         Among our  competitive set, which includes CNN, MSNBC, the New
+York Times, USA Today, Fox  News, Slate and Newsweek:
+
+§          On  average, there was an 8 percent decline in unique visitors.
+Washingtonpost.com’s  October decline was in this range.
+
+§          On  average, there was a 10 percent drop in page views.
+Washingtonpost.com had only  0.2 percent decline.
+
+§          On  average, there was a 2 percent increase in visits per
+visitor.  Washingtonpost.com had a 19 percent increase.
+
+§          On  average, there was a 5 percent decline in time spent.
+Washingtonpost.com had a 23 percent  increase.
+
+
+
+
+
+RECENT LAUNCHES   (new launches in red)
+
+   11/28:Our  first Post foreign  correspondent video, via Kevin Sullivan.
+   11/24:Post.blog, an internal  blog is where we’ll post news of new
+   launches or any other key issues relating  to washingtonpost.com.
+   11/24:Post Remix, a tech  developer site for washingtonpost.com. This is
+   an area where we make our RSS  feeds available to outside developers to
+   see what interesting ways they can  come up with to use the data to
+   build new site tools. Among the interesting  ideas we’ve already seen. A
+   automated  news quiz, a world news  map that collections stories by
+   region by using our Foreign RSS feed, and  a way to navigate articles by
+   clicking on key words.
+   11/22:Holiday  Tech Gift Guide
+   11/20: Redskins in-game play-by-play
+   11/14: Seasoned  Greeetings holiday food blog
+   11/9:Site-wide navigation on  printer-friendly pages (EXAMPLE:
+   http://www.washingtonpost.com/wp-dyn/content/article/2005/11/15/AR2005111501842_pf.html
+   )
+   11/7: Small  business live  discussion series
+   11/7: Interactive  Sudoku
+   11/2: Drop-down navigation redesign and  relaunch across site. This
+   functionality previously only existed on the home  page.
+   11/2:New Jobs  release
+   10/28: High school sports statistical  databases, including the main
+   search page, overall  stats and the top  20 roundup.
+   10/26: City  Guide
+
+
+
+TIP OF THE  WEEK
+
+   Faceted Search in City  Guide: One of the terrific new  features in the
+   City  Guide is the ease in which you can refine your search. For
+   example, if you  enter “restaurants,” you’ll see a box on the upper left
+   of the return page  that will say “restaurants.” If you then add other
+   terms into the “Refine by  keyword” box, i.e. Bethesda, Thai, etc.,
+   you’ll see those listed  in that same box. But if you later decide you
+   don’t necessarily care about  eating in Bethesda, you can click the “x”
+   next  to Bethesda, and it re-runs your search with  all the other
+   criteria still intact, but without Bethesda. This makes it  much easier
+   to refine searches without starting from  scratch.
+
+
+
+ POST/POST.COM  WINS
+
+·          Working  closely with The Post’s business section, the Holiday
+Tech Guide features a  nicely designed main  page. Also, to make it easier
+for readers to stay engaged with the package,  we used what we call the
+“top strip” on all pages (here’s an  example) to keep assure navigation to
+other parts of the guide was always  available.
+
+·          Working  closely with Investigative, we built out some important
+additional content for  the Afghanistan rebuilding story by Joe  Stephens
+and David Ottaway, including a video  piece, an interactive  map and a
+photo gallery. Again, we used the top strip to package all the  elements
+nicely.
+
+
+
+
+
+WORTH A  PEEK
+
+   Alexa: This site has a handful of features,  but the one that’s
+   interesting is the traffic rankings area. It’s not as  scientific as
+   Nielsen, but does provide some interesting data. Currently,
+   washingtonpost.com is ranked as the 183rd most popular site on the
+   Internet.
+   Google Base: Still in beta,  this is Google’s classifieds upload system.
+
+
+
+PRESS  ROOM
+
+   A Lifeline Online:
+   http://www.signonsandiego.com/news/business/20051127-9999-lz1b27theweb.html
+   Craigslist founder planning Net-based news  venture:
+   http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/24/BUG2NFT6GR1.DTL&feed=rss.business

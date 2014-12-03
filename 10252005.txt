@@ -1,0 +1,171 @@
+Here’s  this week’s update from the washingtonpost.com newsroom.  If you
+have links to pass along, or  questions you’d like to see addressed in
+future e-mails (or at the November 1  open houses), please drop me a line
+at jim.brady@washingtonpost.com.
+
+
+
+
+
+NOV. 1 OPEN HOUSE  REMINDER
+
+In order to continue  to improve the dialogue between the newspaper and
+the site,  washingtonpost.com will be holding four open houses at the
+newspaper on November 1. The purpose of these open  houses will be to
+discuss the site's content strategy, challenges, traffic,  examples of
+successful Post-Post.com collaborative efforts and other topics.  We'll
+then answer as many questions as you can send our  way.
+
+
+
+Food will be provided  at each of the meetings, which will be held in the
+Post auditorium on the second  floor.
+
+
+
+The sessions will be  held at the following times:
+
+   10:30am-noon
+   noon-1:30pm
+   2:30-4pm
+   4-5:30pm
+
+
+
+RECENT LAUNCHES   (updates  in red)
+
+   10/21: Video podcasting RSS feed (
+   http://www.washingtonpost.com/wp-srv/mmedia/vipod.xml  (FYI, this is a
+   link to the RSS feed, not a page with  content)
+   10/14:Tom Sietsma’s Dining Guide (
+   http://www.washingtonpost.com/wp-srv/artsandliving/entertainmentguide/features/2005/diningguide/index.html
+   )
+   10/10:IPod version of Entertainment  Guide. (
+   http://www.washingtonpost.com/wp-srv/artsandliving/entertainmentguide/togo/index.html
+   )
+   10/4: Vagablog,  cross-country travelogue (
+   http://blogs.washingtonpost.com/vagablog2/)
+   10/3: The  Fix, our daily political blog. (
+   http://blogs.washingtonpost.com/thefix/)
+   10/3: Wizards  Journal, a NBA blog by The Post’s Ivan Carter (
+   http://blogs.washingtonpost.com/wizardsjournal/)
+   10/3: Car  review database (
+   http://www.washingtonpost.com/wp-dyn/content/linkset/2005/08/01/LI2005080101326.html
+   )
+   9/21: Entertainment  News redesign. (
+   http://www.washingtonpost.com/wp-dyn/content/artsandliving/entertainmentnews/index.html
+   )
+
+
+
+
+
+TIPS OF THE  WEEK
+
+Finding Your Articles on  washingtonpost.com: One of the more consistent
+complaints we get from the newsroom is how difficult it can be to find
+articles  using search. Part of the issue is that, as I’ve mentioned to
+many of you, our  news search is not where it needs to be. We will be
+starting work on fixing that  soon after the new city guide launches this
+week.
+
+
+
+But this is an area where we'd like  to ask each of you to help us out. For
+those who do not know, we are able to add  “wildcards” to certain search
+terms to assure that a link to them shows up at  the top of a search
+return. For example, if you put “Carolyn Hax” into search,  you will see
+two links at the top: Live  Discussion: Tell Me About It with Carolyn Hax
+and Carolyn  Hax: Tell Me About It. These  are wildcards, and are manually
+added to these search terms. Wildcards are  easy to spot; they're always at
+the top of the list, and they generally are just  headlines with no text
+underneath.
+
+
+
+So  what we were hoping each of you do to is to plug in – using quote marks
+around the terms – your name and the name of any column you write, and see
+whether these “wildcards” appear. We don’t do wildcards specifically for
+reporter’s names – since any search for the reporter’s name should return
+their  articles from the past two weeks anyway – but we would add in
+wildcards for  column names or weekly live discussions with reporters. So,
+here's an example on  what we'd like to ask everyone to do, using Joel
+Achenbach as an  example:
+
+   Enter  "Joel Achenbach": Achenblog and Rough Draft appear as wildcards
+   at the top.  This is correct.
+   Enter  "Achenbach:" Only Joel's articles, and articles that have
+   mentioned Joel,  appear here. This is an issue, and we should add
+   "Achenblog" and "Rough Draft"  wildcards to this search term.
+   Enter  "Achenblog": Achenblog does not appear as a wildcard. It should.
+   Enter  "Rough Draft": Rough Draft does appear as a wildcard, so this is
+   correct.
+
+If you  find examples where a wildcard would be useful, drop me an email
+and we'll get  them in the queue.
+
+
+
+Post.com Visits: A few of you have asked about coming  over to Arlingtonto
+get a tour of post.com and to meet  some of our staffers. We don’t have a
+formal tour schedule, but if you’d like to  come over, we’d love to have
+you, so if you’re interested, drop me an  e-mail.
+
+
+
+
+
+WORTH A  PEEK
+
+   http://www.copyscape.com/: This site allows you to check  whether other
+   sites are plagiarizing washingtonpost.com – or any other site,  for that
+   matter.
+   http://virtualearth.msn.com/: A Web  version of Google Earth. To get
+   started, enter the Post’s address, then zoom  in close and switch to the
+   Aerial Photo mode. Cool, yet creepy.
+
+
+
+POST.COM  PRESS ROOM
+
+
+
+   http://lawprofessors.typepad.com/law_librarian_blog/2005/10/washington_post.html
+   http://zahmad.blogspot.com/2005/10/ladners-fall-is-posts-gain.html
+
+
+
+OTHER  NEWS
+
+Traffic
+
+   Since the launch of our new  Opinions area in mid-August, weekly page
+   views are up 40 percent and unique  visitors are up 50 percent across
+   the entire Opinions content set (fronts,  columns, editorials, Outlook).
+   The New York Times announced  September page views for NYTimes.com, and
+   while they still hold a significant  lead in page views on
+   washingtonpost.com, we’re closing the gap. Here are  September page
+   views, and year-over-year increases:
+         NYTimes.com: 561 million (17  percent increase from Sept. 2004)
+         Washingtonpost.com: 255  million (33 percent increase from Sept.
+         2004
+
+Personnel
+
+   Amanda Zamora, most recently a  producer for the Metro section, has been
+   named World Editor and will take over  in mid-November.
+   Michael Smith started as a  part-timer on the overnight shift on 10/24.
+
+Publishing  System
+
+   Orbit continues to see improved  stability, and bugs continue to be
+   fixed. The next release will be on  11/2.
+
+Podcasting
+
+   There’s been a lot of buzz about  podcasting, i.e. the ability to
+   download any audio or video file to an iPod.  As mentioned earlier, we
+   have created an RSS feed for video podcasting. We’re  prototyping three
+   different audio podcasts as we speak. If anyone’s interested  in
+   learning more about what news sites are doing audio podcasting, attached
+   to  this mail is a spreadsheet that lists many of them.
