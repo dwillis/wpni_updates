@@ -1,0 +1,636 @@
+First off, apologies for  the hiatus of this washingtonpost.com newsroom
+update. Many folks in the  newsroom had cited this e-mail as a helpful tool
+in finding out what  washingtonpost.com was up to and to in educating folks
+on the web media  industry. Because we’ve  taken this hiatus, there’s much
+to communicate, so this is a long e-mail.  Subsequent updates will not be
+nearly as long.
+
+
+
+If you have links to pass along, or  questions you’d like to see addressed
+in this email, please drop me a line at jim.brady@washingtonpost.com.
+
+
+
+
+
+TRAFFIC  INFORMATION
+
+September Numbers
+
+   In September, according to  internal numbers, washingtonpost.com had 219
+   million page views and 15.9  million unique visitors. Nielsen had us at
+   7.4 million unique visitors. There  are many reasons for the disparity.
+   Nielsen doesn’t count any .gov or .mil  domains. Our internal numbers
+   count the same person using two user names as  two people and not one.
+   So the true number of uniques is somewhere between the  Nielsen and
+   washingtonpost.com numbers you see above.
+   The site’s top stories in  September:
+         End of an Affair, Washington Post editorial: 358,000  page views
+         No News Not the Best News for Katie Couric’s Debut, by  Tom
+         Shales: 299,000 page views
+         Clinton Administration Officials Assail ABC’s “The Path to  9/11”,
+         by Howard Kurtz: 262,000 page views
+
+August Numbers
+
+   In August, according to internal  numbers, washingtonpost.com had 229
+   million page views and 15.7 unique  visitors.
+
+International Traffic
+
+   For those interested in where our  international traffic comes from,
+   here’s a sample of where our 15,928,374  unique visitors came from in
+   September and the leaders from each continent:
+      Africa: 52,397(South Africa 18,372; Morocco:  4,254; Niger 3,575)
+      Asia: 467,323(Japan 78,133; China 67,562;  India 66,846)
+      Australia: 167,453
+      Europe:  1,044,550(UK  382,294; Germany 116,412; France 83,049)
+      Middle East:  89,588(Israel  24,358; United Arab Emirates 14,261;
+      Egypt 10,203; Iraq N/A)
+      North America:  13,801,844(United States 13,123,322; Canada 586,924;
+      Mexico 47,133)
+      Oceania: 33,426(New Zealand 31,780; Guam  1,807; Northern Mariana
+      Islands: 463)
+      South America:  79,893(Brazil  27,398; Argentina 16,893; Venezuela
+      8,033)
+   Overall, 16.4 percent of our  unique visitors were international in
+   September.
+
+Podcasting
+
+   We’ve seen huge increases in  podcasting over the past eight months. In
+   February 2006, we had 41,402 video  podcast downloads and 3,909 audio
+   podcast downloads. By October, those numbers  had grown to 603,525 video
+   downloads and 91,593 audio downloads. In addition,  washingtonpost.com
+   has its own iTunes page, where you can see our latest  offerings. If
+   you’re interested in trying out any of these podcasts, check out  the
+   full list at
+   http://www.washingtonpost.com/wp-srv/mmedia/podcastfront.htm.
+
+News Alerts
+
+·          In April,  we passed 1 million subscribers for our breaking news
+alerts.
+
+
+
+
+
+RECENT  LAUNCHES
+
+We’ve launched a ton of new things,  so I’ll break it down by section:
+
+
+
+BUSINESS
+
+   Post 200: This annual feature was enhanced  by some cool database
+   features that showed top 100 executives by salary and by compensation.
+   In the Pipeline, Frank Ahrens’ Enron trial blog,  which focused on the
+   testimony of Ken Lay and Jeffrey Skilling.
+   Marketwatchreleased upgrades to a handful of  our business pages that
+   were not included in the redesign we rolled out  earlier this year. The
+   new pages include: Markets News/Indices Main Page, Winners and Losers,
+   Most Actively Traded and Currency Converter. Additionally, the updated
+   look/feel for  mutual fund pages was also completed.
+
+CARS
+
+   Smart Wheels:Our guide to  eco-friendly automobiles, enhanced with a
+   suite of live  discussions.
+
+FEATURES
+
+   2006 Holiday Guide: This special  section, launched in close cooperation
+   with the newspaper, provides deep data  on holiday-related events in the
+   area, plus subsections around Gifts,  Entertaining, Fashion, Activities
+   and Seasonal Survival. We also launched a Holiday  911 blog, authored by
+   Home’s Liz Seymour, to answer questions from  readers.
+   The City Guide has gotten another upgrade to help readers  better
+   understand the search functionality and to provide browse pages for
+   categories like Restaurants. Other changes:
+         A new City Guide main  page with quick browse links, popular
+         profiles, and suggested searches
+         A more prominent search  box with improved labeling
+         Stronger faceted navigation  that is easier to use and more
+         integrated into the pages
+         Revamped search results  pages
+         Improved functionality for  movie searches
+   We launched the Lean Plate Club Holiday Challenge, where  we're working
+   with Sally Squires to help people keep their weight steady  through the
+   holidays. We've put video cameras in two readers' hands and are  running
+   their video on the site.
+
+GENERAL
+
+   Reporter  Pages: We’ve now launched pages for each reporter that list
+   recent  articles, an RSS feed and feedback box. Here’s an example for
+   Dave Sheinin. You can reach these pages by clicking  on a linked byline
+   and finding the “Recent Articles by…” link.
+   Related Links Pages:  Working with our  partner Inform, we now have
+   “Related Topics & Web Content” links at the  bottom of each article that
+   drive readers to related content. For an article  on global warming,
+   here’s the related page, which includes related links both on our site
+   and other sites. Soon, the terms included on the related page will be
+   hyperlinked in articles, allowing readers much easier access to related
+   information. We hope this will drive readers deeper into
+   washingtonpost.com,  and also give us an advantage over competitors in
+   terms of helping readers  find related information on the Web at large.
+   Lottery Results Tool, which features winning numbers  for the United
+   States and Canada.
+   Our new version of news  search launched earlier this year. The new
+   search – an example here off a search on “Guantanamo Bay” -- allows for
+   the filtering of any search return by a variety of categories, including
+   byline, source, content type, section, etc. This makes it much easier to
+   find  content on the site. Here’s a quick tutorial:
+         If you search on the term  "Rumsfeld," for example, you'll see a
+         result list of links to items  containing that search term in the
+         center of your screen, with the most  recently published items at
+         the top.
+         On the left, you'll see a  variety of filters that allow you to
+         quickly get to the results you're  looking for. For example, if
+         the initial search returns items of more than  one content type
+         (articles, photos, photo galleries, discussions, blogs,  City
+         Guide profiles, etc.), then you'll see filters for each type
+         returned. Clicking on Discussions will return a new list
+         containing only  Discussions referencing "Rumsfeld.”
+         Besides content type, the new  search gives you the ability to
+         filter by byline, section, date and  source, and by entering
+         additional keywords. You can keep applying  filters, or you can
+         remove them by clicking on the red "x" you'll see next  to each
+         filter.
+         The new search automatically  sorts by date, but you can manually
+         re-sort by relevancy or content type  by clicking on the "Sort by
+         Relevance" or "Type" headers above the result  list.
+   We completed the full rollout of  comments on articles in the late
+   summer. Early returns  are extremely positive on this, both in terms of
+   traffic and quality of posts.  While there are some trouble spots, we’ve
+   had to remove very few comments.  Here’s a link to the most commented on
+   stories.
+
+JOBS
+
+   Nail the Interview:An interactive game focused on,  as the title
+   suggests, nailing the interview.
+   Grad Guide:A package from the spring, aimed  at new college graduates to
+   aid in their post-college life.
+   Hiring Squad:Expert advice, tools and live  discussions designed to give
+   job hunters a leg up on the  competition.
+
+NATIONAL
+
+   Faces of the Fallen:This database lists  all of America’s war dead in
+   Iraq and Afghanistan, and is sortable by date, home town, military
+   branch and age.
+   Guantanamo Bay Detainee Database:A list of  Guantanamo detainees,
+   sortable by nationality.
+
+OPINIONS
+
+   PostGlobal: Our first panel blog,  co-hosted by The Post’s David
+   Ignatius and Newsweek’s Fareed Zakaria, features  a panel of more than
+   40 journalists around the world who debate questions  posed by David and
+   Fareed.
+   OnFaith: Our second panel  blog, co-hosted by Newsweek’s Jon Meacham and
+   The Post’s Sally Quinn, features  a lively discussion on faith.
+   Panelists include Desmond Tutu, Mohammad  Khatami, Elaine Pagels and
+   Elie Wiesel. For launch, we had guest posts from  the Dalai Lama and
+   Kofi Annan.
+   Think Tank  Town, where we take submissions from 10 of the nation’s
+   most influential think tanks on the issues of the day.
+   Bench Conference, a legal blog by Andrew  Cohen.
+
+POLITICS
+
+   Midterm  Madness, our political game, where readers tried to pick the
+   results of all the contested House and Senate races for 2006. We
+   received  almost 4,000 entries.
+   Political Ads Database: We  catalogued and categorized 182 ads for the
+   midterms, and plan on expanding  this effort for 2008.
+   Congressional Voting Database: We’ve  added some upgrades to this
+   popular feature:
+      We’ve now added photos of all reps to their pages, and also
+      demographic data for members’ districts, links to financial
+      disclosure forms  and next election date.
+      Every Senate vote page has a new  "By next election year" sort
+      option, e.g.
+      http://projects.washingtonpost.com/congress/109/senate/2/votes/202/
+      . This
+      lets you sort votes by reelection year. House votes don't have  this
+      because
+      it wouldn't make sense -- the members all have the same  re-election
+      date.
+      We’ve added descriptions of key  votes. (Example:
+      http://projects.washingtonpost.com/congress/109/senate/2/votes/118/).
+      We’ve added quick links to  washingtonpost.com's stories mentioning
+      specific  lawmakers.
+   We launched some additions to the  campaign 2006 data we presented on
+   washingtonpost.com.
+      For all candidates listed in our  key races interactive map, we now
+      have campaign  finance information. (Example: the Pennsylvania Senate
+      race).
+      The main profile page offers a  snapshot of each candidate's
+      cash-on-hand.  Links under each  candidate's name takes users to an
+      expanded campaign finance page. (Example:  Casey and Santorum). The
+      campaign finance data comes from the  Center for Responsive Politics
+      and is current -- i.e. it reflects the  most-recent quarter for which
+      #s are available.
+      We've also added more census  information on House districts.
+      (Example: Ohio 6). Additional census information on the  district is
+      now included on the main page.
+   Here’s a summary of other improvements we’ve made to our  political
+   coverage.
+
+SPORTS
+
+   World Cup 2006, which included our  popular World Cup Fantasy Challenge,
+   where readers picked six  players and a team defense and competed
+   against others. We had more than  20,000 participants. We also had the
+   Road to the World Cup blog.
+   Spring All-Mets 2006and Winter All-Mets 2006.
+   Nats Game Day, a in-game application that  tracks pitch-by-pitch
+   progress of the Nats game, and includes a real-time  tracker that
+   calculates the Nats’ chance of winning the  game.
+
+
+
+TECHNOLOGY
+
+   We've launched a group tech blog,  Post  I.T.
+
+
+
+WORLD
+
+   New Country  Pages: Working with the Columbia Electronic Encyclopedia,
+   we’ve  launched new country pages that combine Washington Post content
+   with  Columbia’s historical, geographical, economic and demographic
+   data. Here’s Afghanistan. Whenever a country is mentioned in an article,
+   the name is now hyperlinked to the relevant country page.
+   Keith Richburg Podcast: We’re now podcasting  Keith’s weekly WTWP show.
+
+
+
+OTHER  UPDATES
+
+Global Navigation
+
+We’ve made a few changes to our  global navigation in recent months:
+
+   Politics was added back into the  main navigation in October. Because
+   politics is so central to what we do, we  felt it deserved to be pulled
+   out from under the News menu.
+   In the Arts & Living dropdown,  we’ve removed Dating and Music and have
+   added Beauty & Fashion and Theater  & Dance. Dating and Music will
+   remain on the Arts &  Living section navigation. These changes were
+   based on clicks on the  sub-navigation and traffic to subsections.
+
+Mobile
+
+   The home page of  washingtonpost.com is now “mobile aware.” What does
+   that mean? If you  type in washingtonpost.com on a mobile device, we
+   will automatically redirect  you to our mobile site, since our normal
+   home page doesn’t look good on a  small screen. If this isn’t happening
+   for you, send an e-mail to sarah.lumbard@wpni.com  and please pass on
+   the make and model of the device you’re using.
+   The traffic to our wireless site  is nomimal right now, averaging about
+   9,000 page views per day. But on  Election Day, we received 22,000 page
+   views, and expect traffic to increase  now that our site is “mobile
+   aware.”
+
+Partners
+
+   Youtube.com has launched a washingtonpost.com page. Not many people
+   using it so far,  but it’s a start.
+   Yahoo is running  washingtonpost.com stories – direct links, not
+   re-templated Post articles – on  its local Washington page.
+
+Reader Engagement
+
+   Our all articles now include a  feature that allow readers to submit any
+   of our articles to six of the largest  social bookmarking sites: Digg,
+   delicious, Reddit, Google, Yahoo and Facebook.  Here’s some background
+   on social bookmarking.
+
+
+
+TIPS  OF THE WEEK
+
+   Headlines on Site:  One criticism of  washingtonpost.com that sometimes
+   surfaces in the critiques relates to  headlines on the home page.
+   Usually, the criticism is that the headlines are  bland or don’t reuse
+   the more creative headlines often used in the paper. This  is
+   intentional. On the web, our headline link is the one chance we have to
+   get  someone to click on a story, and as such, needs to be direct and to
+   the point.  We rarely have a large photo or subhed to help communicate
+   the  subject of a story; we have that one headline. On the web, an
+   indirect or  punny headline is far less likely to get a reader to click
+   than a to-the-point  head. Additionally, the more direct the headline,
+   the easier it is for search  engines like Google and Yahoo to determine
+   the subject of the article and  return a link to readers interested in
+   that topic. Here's an article that discusses this topic.
+   Online  News Sites: I’m often asked for a list of sites that are useful
+   for  someone trying to learn more about online journalism. These sites
+   do the best  job of tracking the latest news, recent trends and
+   providing links to cool  sites.
+         http://www.buzzmachine.com/
+         http://www.cyberjournalist.net/
+         http://www.timporter.com/firstdraft/
+         http://www.onsquared.com/
+         http://www.paidcontent.org/
+         http://journalism.nyu.edu/pubzone/weblogs/pressthink/
+         http://www.poynter.org/column.asp?id=45
+         http://www.poynter.org/column.asp?id=31
+         http://www.editorandpublisher.com/eandp/index.jsp
+         http://www.ojr.org/
+         http://www.ajr.org/
+         http://www.cjr.org/
+   Helpful  Site for Reporters: Here’s a site that has lots of useful web
+   links for reporters.
+
+
+
+POST/POST.COM  WINS
+
+   We worked closely with Foreign to  produce great web presentations of
+   the pullout that ran Nov. 3. You can see  what we did at
+   http://www.washingtonpost.com/wp-dyn/content/linkset/2006/11/02/LI2006110201094.html
+   .
+   In preparation for our launch of  Smart Living, our consumer hub, we’ve
+   started working with the paper on some  how-tos. Here’s one with Adrian
+   Higgins on planting trees and shrubs.
+   We continue to find ways to work  more closely with Washington Post
+   Radio. Washingtonpost.com did almost three  dozen updates for WTWP in a
+   24-hour period around Election Day. We have also  started collaborating
+   on specific projects, such as creating audio files for  WTWP to use when
+   discussing certain stories. We did this for a segment on the  Being a
+   Black Man series about the relationships between black men and black
+   women. We’re also increasingly providing live links to WTWP when it has
+   high-profile guests.
+   One specific project we're working on  with Washington Post Radio is
+   "Tribute to the Fallen." These are radio  versions of our "Faces of the
+   Fallen" project. Post.com producers Ed O'Keefe and Tanya Ballard write
+   the scripts, Ed  voices them, and they air Fridays. The Tribute is then
+   archived on the service  member's Faces of the Fallen page: Example: 2nd
+   Lt. Emily J. Perez (From Prince George's County):
+   http://projects.washingtonpost.com/fallen/dates/2006/sep/12/emily-j-perez/
+   .  We're also adding links to soliders' pages when other papers write
+   about them.  Here's an example:
+   http://projects.washingtonpost.com/fallen/dates/2006/oct/02/kristofer-c-walker/
+   .
+
+
+   Among the many  successful collaborations between newsrooms, three broke
+   new ground –  Being a Black Man, 2006 Holiday Guide and the Ohio River
+   Ramble. We’ll discuss more in  the next e-mail how these projects came
+   together and why they have been major  successes.
+
+
+
+
+WORTH A  PEEK
+
+   Interactivenarratives.org: This  site looks at news and information
+   sites from around the web, points to  interesting packages and analyzes
+   what makes them work. A good primer for  learning how people consume
+   news and information on the Web.
+   Reboot.bbc.co.uk: Interesting  concept where the BBC asks its readers to
+   help redesign its site.
+   http://www.parkingcarma.com/its/DesktopDefault.aspx?tabid=65:  Another
+   cool mashup, this one allows you to see how many parking spaces are
+   available in Bay Area public parking lots.
+   http://preview.local.live.com/:  This Microsoft demo site allows you to
+   move a car around maps of Seattle and  San Francisco at the bottom of
+   the screen, and see photos of that block on the  top of the screen. It's
+   buggy, but interesting.
+   http://www.backfence.com/home/index.cfm?mycomm=AR:  Backfence has now
+   launched sites in seven communities in the Washington  area.
+   The Washington City  Paper, Washingtonian and The  Examiner have
+   launched redesigned Web sites
+   Here's a report by Journalism.org on the web's election night coverage.
+   We fared well, and were discussed  here.
+
+
+
+AWARDS
+
+It’s been a big awards year from  washingtonpost.com in 2006. Here’s what
+we've won:
+
+
+
+Digital Edge  Awards
+
+   Best Overall News Site,  circulation of 250,000 or greater,
+   washingtonpost.com
+   Best Employment Strategy,  circulation of 250,000 or greater,
+   washingtonpost.com Jobs
+   Best Automotive Strategy,  circulation of 250,000 or greater,
+   washingtonpost.com Cars
+   Best Entertainment Site,  circulation of 250,000 or greater,
+   washingtonpost.com City Guide
+
+Edward R. Murrow  Award
+
+   Best Non-Broadcast Affiliated  Website, washingtonpost.com
+
+Editor & Publisher Awards  (Eppys)
+
+   Best Overall Newspaper-Affiliated  Web Site, washingtonpost.com
+   Best Internet Classified Service,  washingtonpost.com Cars
+   Best Inernet Community Service  Effort, U.S. Congressional Votes
+   Database
+
+Emmy Award, Outstanding Achievement  in Content for Non-Traditional
+Delivery Platforms
+
+   Travis Fox, Coverage of Hurricane Katrina
+
+Local Emmy Award, Best  Public/Current/Community Affairs Program or Special
+
+   Ben de la Cruz for his "Homeless in D.C.” series.
+
+Knight-Batten Award for Innovations  in Journalism, Award of Distinction
+
+   U.S. Congressional Votes Database
+
+National Press Photographers  Association video contest
+
+   1st place, Web content: Travis  Fox, “Living in Deserted New Orleans”
+   2nd place, General News Special  Effects: Pierre Kattar, “Antiwar
+   Protest”
+   3rd place, General: Ben de la  Cruz, “Missing Connections in New
+   Orleans”
+   3rd place, Web content:  Travis Fox, “Voice from the Line”
+   3rd place, Editor's Feature:  Travis Fox, “Chathura’s Story of the
+   Tsunami”
+   Honorable Mention, Topical  Category (Hurricanes): Travis Fox,“US Army
+   Patrols New Orleans”
+   Honorable Mention, Editor's  Feature: Travis Fox, “Sunday Mass for Pope
+   John Paul II"
+
+Society of News Design Annual  Awards
+
+   Silver, Being a Black Man
+   Bronze, Gulf Coast in the Wake of Katrina
+   Bronze, A Life Lived in 4/4 Time
+   Award of Excellence, Journey to the Border
+   Award of Excellence, Aceh: One Year Later
+
+Webby, People's Voice  Award
+
+   Best Newspaper Site
+
+White House News  Photographers Association video awards
+
+   Winner of 31 of 90  prizes awarded
+   Editor of the Year:  Travis Fox
+   1st place:  Documentary, Travis Fox: Inside Egypt's Opposition
+   1st place, General  News: Travis Fox, In Line at Rosa Parks Funeral
+   1st place, Day  Feature: Travis Fox, U.S. Army Patrols New Orleans
+   1st place, Sports:  Jenn Crandall, Gridiron Divas
+   1st place,  Political: Travis Fox, Senate Intelligence
+   1st place, News  Feature Editing: Travis Fox, Voices From the Line
+   1st place,  Presidential/Politics Editing: Christina Pino-Marina and Ben
+   de la Cruz,  Immigration Issue Heats Up in Herndon
+   2nd place, Spot  News: Pierre Kattar, Journalist Assassinated
+   2nd place, News  Feature: Travis Fox, Returning to Flooded New Orleans
+   2nd place, Sports:  Travis Fox, D.C. United's Biggest Fan
+   2nd place, Audio:  Travis Fox, The Funeral of Pope John Paul II
+   2nd place, Same-Day  Editing: Travis Fox, U.S. Army Patrols New Orleans
+   2nd place, Sports  Editing: Travis Fox, D.C. United's Biggest Fan
+   3rd place, Feature:  Travis Fox, Tsunami Mass Grave
+   3rd place, News  Special Reports/Series: Travis Fox, Still Living in
+   Tents, a Year After the  Tsunami
+   3rd place, Network:  Travis Fox, Fueling Azerbaijan's Future
+   3rd place, Spot News  Editing: Pierre Kattar, Journalist Assassinated
+   3rd place,  Documentary Editing: Travis Fox, Inside Egypt's Opposition
+   Award of Excellence,  Spot News: Pierre Kattar, Antiwar Protest
+   Award of Excellence,  Day Feature: Pierre Kattar, Student Bus Rally in
+   Beirut
+   Award of Excellence,  News Feature: Pierre Kattar, D.C.'s Papal Museum
+   Award of Excellence,  Feature: Ben de la Cruz, A Jazzman Returns
+   Award of Excellence,  News Special Reports/Series: Christina
+   Pino-Marina, A Life Lived in 4/4  Time
+   Award of Excellence,  News Special Reports/Series: John Poole and Jenn
+   Crandall, The Sheriff of Gay  Washington
+   Award of Excellence,  Same-Day Editing: Pierre Kattar, Gubernatorial
+   Kickoff
+   Award of Excellence,  Same-Day Editing: Christina Pino-Marina, Surviving
+   War, Then  Katrina
+   Award of Excellence,  Editing Short Form: Travis Fox, Living in Flooded
+   New Orleans
+   Award of Excellence,  Sports Editing: Ben de la Cruz, Neighborhood Fight
+   Night
+   Award of Excellence,  Sports Editing: Christina Pino-Marina, From
+   Russia, With Game
+   Award of Excellence,  Presidential/Politics Editing: John Poole,
+   Congress Plays Ball
+
+AFI Silverdocs Film  Festival
+
+   Official selection and Audience  Award winner: “The Sheriff of Gay
+   Washington” by John W. Poole and Jennifer  Crandall
+
+ChicagoFilm Festival
+
+   Official selection: “The Sheriff  of Gay Washington,” John W. Poole and
+   Jennifer Crandall
+
+Austin International Film  Festival
+
+   Official selection: “The Sheriff  of Gay Washington” by John W. Poole
+   and Jennifer Crandall
+
+Edward R. Murrow Regional  Award
+
+   Regional award, Large Market  Television, Region 12, Investigative
+   Reporting (in partnership with MHZ  Networks): Christina Pino-Marina and
+   Pierre Kattar, Following the Money  in Afghanistan
+
+
+
+PRESS  ROOM
+
+WASHINGTONPOST.COM
+
+   Post.com was among the sites  called out for election night innovations.
+   See the complete list
+   Washingtonpost.com’s Chris  Cillizza was listed as one of America’s next
+   top pundits by The Wall Street Journal.
+   Editor & Publisher wrote about  our Midterm Madness game.
+   According to newsknife.com, washingtonpost.com ranked 4th among news
+   sites in  links on the home page of google.com. This speaks well to the
+   overall  relevance of the site, and our efforts to optimize our pages
+   for Google  search.
+   A bunch of sites covered Len  Downie’s speech at the Online News
+   Association conference in Washington in  October. Here's one example:
+   paidcontent.org,
+   EPolitics talks about our social media efforts.
+   Frank Ahrens wrote about his Enron blogging experience for American
+   Journalism  Review.
+   Find out what web readers are  saying about our Congressional Voting
+   Databases and Faces of the Fallen.
+    Local Onliner writes about our online classifieds  strategy.
+   Holovaty: Newsrooms Need More Structured  Data (Poynter)
+   The Miami Herald uses washingtonpost.com’s Congressional voting
+   database to razz a chronic vote misser.
+   Slashdot takes a look at  washingtonpost.com’s 10 years on the  Web.
+   Jeff Croft talks about “new” journalism.
+   Chez Nadezdha loves PostGlobal and  washingtonpost.com.
+   Former Washington Post and  washingtonpost.com staffer Mindy McAdams
+   loves the online presentation of Being a Black  Man.
+   Steve Priest thought we deserved the Editor & Publisher  awards we won.
+   Rebecca Hartong sent her congratulations on our E&P  awards.
+   MotherPie was a fan of Frank Ahrens’ Enron blog.
+   Blogma likes our del.icio.us deal. So does Metroblogging Washington.
+   Search Rank says  forum anonymity may become a thing of the past.
+   Wonkette loves the congressional database, especially the  horoscope
+   sorter.
+
+THE COMPETITION
+
+   The New York Times’ Digital Makeover (CNNMoney.com)
+   The Paper Chase (Broadcasting & Cable)
+   Boston Globe, Boston.com to meld news  operations (Boston Globe)
+    N.Y. Times, Dow Jones tout online pay  models (CBS Marketwatch)
+   NYtimes.com has started an “Ask the Editors” feature. It’s not live,
+   like our Live  Online, but does provide some interesting insight.
+   CNN.com has redesigned its home  page, and here are the key changes.
+   The New York Times  launched its Politics blog, The Caucus.
+   WTOP.com has opened  all of its articles to comments.
+   Surprise: Gates, Sulzberger Unveil New Web/Print  'Reader' (Editor &
+   Publisher)
+   BBC to shake up web with more interactivity (Financial  Times)
+
+THE  INDUSTRY
+
+   eMarketer: Online Video Ads To Surge 89% In  '07 (MediaPost)
+   NAA Analysis Shows 8 Percent Increase in Total Newspaper  Audience (NAA)
+   Online Newspaper Audience Experiences Record Month in Third  Quarter
+   (NAA)
+   Google expands online news index to include older articles  (CBS
+   MarketWatch)
+   Ten Toes in the Multimedia Waters (Editor &  Publisher)
+   Taking the Paper Out of Newspapers (Al-Ahram Weekly)
+   What’s Stopping Innovation in Today’s News Media  (LostRemote)
+   A Sea of Change for Papers’ Web Sites (MediaLife  Magazine)
+   Online Newspaper Readers Younger, Buy  More(NAA)
+   Social Networking Spreads To News  Sites (MediaPost)
+   The Future of News: Sense-Making and Other  Strategies for Survival
+   (Poynter)
+   Guardian to offer news online  first (The Guardian)
+   Newspapers Are Dying, but the News Is  Thriving (Slate)
+   Study: Web Is the No. 1  Media (cNet)
+   As Market Shifts, Newspapers Try to Lure  New, Young Readers (Wall
+   Street Journal)
+   Newspapers: From Print to Pixels  (Business Week)
+   Men And Women Equal Internet Viewers of News  Content (Center for Media
+   Research)
+   While TV is First For News, Newspapers Are  Close Second (MediaPost)
+   Embracing Contradictions: Andrew Heyward on  the Value of News (Poynter)
+   The Future of News: A Challenge to Both  Sides of the House (Poynter)
+   Media Frenzy: Waiting for the Dough on the  Web (New York Times;
+   TimesSelect required)
+   The People Formerly Known as the  Audience (Pressthink.org)
